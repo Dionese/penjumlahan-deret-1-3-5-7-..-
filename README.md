@@ -1,0 +1,1 @@
+# penjumlahan-deret-1-3-5-7-..-
